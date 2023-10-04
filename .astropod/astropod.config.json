@@ -2,7 +2,7 @@
   "copyright": "",
   "theme": "halloween",
   "fundingText": "",
-  "author": "Author's name",
+  "author": "Serbian Swish",
   "name": "Serbian Swish",
   "banner": "/1.png",
   "pageSize": 15,
@@ -11,13 +11,14 @@
   "favicon": "/serbian_swish_logo_outline.png",
   "explicit": false,
   "cover": "/7.png",
-  "language": "en",
+  "language": "sh",
   "link": "https://serbianswish.com/",
   "email": "serbianswish23@gmail.com",
   "description": "Dobro došli na Serbian Swish - vaš dom za sve što se tiče košarke, posebno NBA lige. Svake nedelje, ulazimo duboko u intrigantni svet košarke, nudeći vam zanimljive diskusije, urnebesne razgovore i prodorne analize koje će vas ostaviti u iščekivanju sledeće epizode.\nMi iz Serbian Swish-a, kombinujemo strast prema košarci, ljubav prema sportu i i preglup smisao za humor kako bismo vam doneli podkaste koji su ne samo zanimljivi i primamljivi, već i analitički potkovani. Naš sadržaj je osvežavajuća mešavina pametnih komentara i duhovitih anegdota, dizajnirana da intrigira kako iskusne NBA entuzijaste, tako i opuštene košarkaške fanove.\nDakle, bilo da ste vatreni pratioc NBA lige, fanatik sporta uopšte, ili jednostavno neko ko uživa u krindžu, Serbian Swish je mesto za vas. Uključite se, opustite se i dozvolite nam da Vas prenesemo direktno na košarkaški teren najuzbudljivijih utakmica. \nDobro došli na Serbian Swish!",
   "category": [
-    "Technology",
-    "Business"
+    "News",
+    "Sports",
+    "Society &amp; Culture"
   ],
   "feedSize": ""
 }
