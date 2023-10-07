@@ -4,7 +4,7 @@ audioUrl: https://drive.google.com/file/d/1FOoEDAV_SdboGmLfypah3Q5lb_zqFUFS/view
 pubDate: 02 Apr 2023
 duration: 37:48
 size: 35
-cover: /podcast_thumb_square_0.png
+cover: /website_thumb_0.png
 explicit: false
 episode: 1
 episodeType: full
