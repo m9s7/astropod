@@ -1,6 +1,6 @@
 ---
 title: Generalno NBA upoznavanje i još po ništa - Gost Luka Aničin
-audioUrl: https://drive.google.com/file/d/1FOoEDAV_SdboGmLfypah3Q5lb_zqFUFS/view?usp=sharing
+audioUrl: https://drive.google.com/file/d/1FOoEDAV_SdboGmLfypah3Q5lb_zqFUFS/view
 pubDate: 02 Apr 2023
 duration: 37:48
 size: 35
@@ -9,8 +9,6 @@ explicit: false
 episode: 1
 episodeType: full
 ---
-<!--StartFragment-->
-
 Početak aprila, uskoro početak i playoff-a NBA lige, ali najbitnije za vas je svakako početak SerbianSwish podkasta. Sama ideja iza ovog projekta jeste da vas na intrigantan i zanimljiv način obaveštavamo o svim aktuelnostima vezanim za ligu američkih košarkaških profesionalaca. 
 
 Plan je da ovaj podkast izlazi svake nedelje, a da li će se to i obistiniti, zavisi isključivo od vas i vaših reakcija. Tako smo došli do današnjeg nultog (pilot) podkasta koji služi isključivo za „upoznavanje“ i pružanje minimalne strukture nečemu što nam je novo i nepoznato. U tome nam je najviše pomogao gost, Luka Aničin, koji je u toku snimanja evoluirao iz publike u voditelja, i iz osobe koja ne prati NBA u zaljubljenika u ovu igru pod obručima. Ogromno hvala čoveku, jer da njega nije bilo, ne bi ni nas sada bilo za vas. 
@@ -40,5 +38,3 @@ I da, naravno za kraj, mi smo Matija i Brzi i mi vas vodimo kroz ovaj eksperimen
 * 34:19 Najneočekivaniji transfer 
 * 35:37 Zakljucak 
 * 37:03 Kraj
-
-<!--EndFragment-->
